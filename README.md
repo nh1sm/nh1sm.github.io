@@ -1,5 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Anthony Grife</title>
+  </head>
   <body>
     <main>
       <p>Looking for experience in <strong><u>computer/electrical engineering</u></strong> to expand knowledge in a hands-on environment.</p>
